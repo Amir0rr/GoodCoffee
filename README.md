@@ -1,30 +1,33 @@
 # GoodCoffee
 
-GoodCoffee, a responsive landing page built with HTML/CSS/JS
+A responsive landing page for a coffee brand, built with HTML, CSS and JavaScript.
+
+🔗 **Live Demo:** https://amir0rr.github.io/GoodCoffee/
 
 ![Desktop preview](screenshots/desktop.png)
 
 ## Features
 
 - Fully responsive layout (desktop, tablet, mobile)
-- Custome fonts
-- Smooth scroll
+- Custom fonts
+- Smooth scrolling between sections
+- Persian (RTL) support with a custom font (Vazirmatn)
 
 ## Built With
 
-- HTML
-- CSS
+- HTML5
+- CSS3 (Flexbox, Grid, media queries)
 - JavaScript
 
 ## What I Learned
 
-- Work with media query
-- Create reesponsive layout with Flexbox/Grid
+- Using media queries for different screen sizes
+- Building responsive layouts with Flexbox and Grid
 
-## Run locally
+## Run Locally
 
 ```bash
 git clone https://github.com/Amir0rr/GoodCoffee.git
 ```
 
-Then open `index.hml` in your browser.
+Then open `index.html` in your browser.
